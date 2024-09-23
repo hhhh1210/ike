@@ -19,7 +19,7 @@ https://sub.xf.free.hr/auto
 `
 
 let urls = [];
-let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
+let subconverter = "dy.wgmial.eu.org"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/hhhh1210/pez/main/share_remote_config.txt"; //订阅配置文件
 let subProtocol = 'https';
 
